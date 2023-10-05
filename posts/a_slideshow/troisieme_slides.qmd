@@ -1,5 +1,5 @@
 ---
-title: "Cortisol Concordance: A Slide Deck"
+title: "Psychological Disorders II. Group Project. Cortisol Concordance: A Slide Deck"
 format:
   revealjs:
     theme: moon
@@ -8,9 +8,11 @@ execute:
   echo: false
 ---
 
-### Back to Home
+### Welcome
 
-[Link to Home](https://miller-c-r.github.io/deuxieme_abpsych_group/)
+#### Helpful Link
+
+[Click Here to Navigate back to the Home Page](https://miller-c-r.github.io/deuxieme_abpsych_group/)
 
 #### Presentation brought to you by:
 
@@ -64,9 +66,8 @@ b.  Hypothalamic-pituitary-adrenal(HPA) axis The central physiological mechanism
 
             a.  Would be intermediate to CHR converters subgroups and healthy controls
 
-            ```{=html}
             <!-- -->
-            ```
+
             1.  Measurement positive symptom progression
 
 ## Methods
@@ -75,31 +76,26 @@ b.  Hypothalamic-pituitary-adrenal(HPA) axis The central physiological mechanism
 
 #### Subjects
 
-1. 662 participants
+1.  662 participants
 
-2. Age
+2.  Age
 
-3. CHR subjects
-  a. Exclusion criteria
-    1. Axis-1 psychotic disorder
-    2. Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement
+3.  CHR subjects
 
-  b. Initial assessment
-    1. Conducted by clinically trained interviewers
+<!-- -->
 
-    2. Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
-    3. Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV
-    
-  c. Help Seeking
-  
-  d. Met criteria for one or more prodromal syndromes
-    1. Attenuated psychotic symptoms
-    2. Brief intermittent psychotic symptoms
-    3. Substantial functional decline combine with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.
+a.  Exclusion criteria 1. Axis-1 psychotic disorder 2. Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement
 
-  
+b.  Initial assessment 1. Conducted by clinically trained interviewers
+
+       
+2. Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
+3. Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV
 
 
+c.  Help Seeking
+
+d.  Met criteria for one or more prodromal syndromes 1. Attenuated psychotic symptoms 2. Brief intermittent psychotic symptoms 3. Substantial functional decline combine with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.
 
 ## Results
 

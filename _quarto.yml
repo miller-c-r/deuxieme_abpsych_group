@@ -5,14 +5,13 @@ project:
 website:
   title: "Cortisol Concordance"
   navbar:
-    right:
+    left:
       - about.qmd
-      - icon: github
-        href: https://github.com/
+      - slides_moi.qmd
       
 format:
   html:
-    theme: journal
+    theme: slate
     css: styles.css
 
 editor: visual

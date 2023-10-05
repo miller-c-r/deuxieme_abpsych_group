@@ -19,5 +19,11 @@
   },
   "posts/The Article/index.qmd": {
     "index.html": "4919c9fb"
+  },
+  "slides_moi.qmd": {
+    "slides_moi.html": "ccd94940"
+  },
+  "posts/the_article/index.qmd": {
+    "index.html": "83e11833"
   }
 }

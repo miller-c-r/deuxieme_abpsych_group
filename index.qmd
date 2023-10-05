@@ -10,3 +10,17 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+::: callout-note
+C Miller's Student Blog
+:::
+
+::: {.callout-caution collapse="true"}
+## Expand to Learn About the Images Below
+
+Click on Posts Below to View Slide Show
+:::
+
+::: callout-tip
+Use the menu in the bottom left of the slide deck to navigate between slides and the home page.
+:::
