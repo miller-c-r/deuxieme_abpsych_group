@@ -10,5 +10,14 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "a24f2056"
+  },
+  "posts/A Slideshow/index.qmd": {
+    "index.html": "d7b386d8"
+  },
+  "posts/Media/index.qmd": {
+    "index.html": "e3cd8ba3"
+  },
+  "posts/The Article/index.qmd": {
+    "index.html": "4919c9fb"
   }
 }

@@ -1,1 +1,108 @@
+---
+title: "Cortisol Concordance: A Slide Deck"
+format:
+  revealjs:
+    theme: moon
+editor: visual
+execute:
+  echo: false
+---
 
+### Back to Home
+
+[Link to Home](https://miller-c-r.github.io/deuxieme_abpsych_group/)
+
+#### Presentation brought to you by:
+
+1.  Chantal M
+
+2.  "J..."
+
+3.  "E..."
+
+## Article Title
+
+Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psychosis: Novel Findings from the NAPLS Cohort
+
+## Key Terms
+
+1.  Concordance
+
+<!-- -->
+
+b.  Hypothalamic-pituitary-adrenal(HPA) axis The central physiological mechanism linking psychosocial stress to the onset and exacerbation of schizophrenia and related psychotic disorders
+
+<!-- -->
+
+2.  HPA dysregulation
+
+3.  HPA axis
+
+4.  Prodrome/ Prodromal
+
+## Background
+
+## Question
+
+1.  Broad Question
+
+    1.  The neural diathesis stress model and clinical risk for psychosis Abnormalities in the HPA axis , places individuals at increased vulnerability for psychosis
+
+2.  Specific Question
+
+    1.  Determining the extent to which HPA axis responsivity in at-risk youth predicts clinical outcome is important
+
+        1.  CHR youth who later converted to psychosis would show:
+
+            a.  Greater exposure and distress in relation to psychosocial stressors
+
+            b.  Elevated basal cortisol
+
+            c.  Higher stressor-cortisol concordance relative to healthy controls
+
+        2.  CHR nonconverters
+
+            a.  Would be intermediate to CHR converters subgroups and healthy controls
+
+            ```{=html}
+            <!-- -->
+            ```
+            1.  Measurement positive symptom progression
+
+## Methods
+
+#### Utilizing data from North American Prodrome Longitudinal Study 2 NAPLS 2
+
+#### Subjects
+
+1. 662 participants
+
+2. Age
+
+3. CHR subjects
+  a. Exclusion criteria
+    1. Axis-1 psychotic disorder
+    2. Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement
+
+  b. Initial assessment
+    1. Conducted by clinically trained interviewers
+
+    2. Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
+    3. Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV
+    
+  c. Help Seeking
+  
+  d. Met criteria for one or more prodromal syndromes
+    1. Attenuated psychotic symptoms
+    2. Brief intermittent psychotic symptoms
+    3. Substantial functional decline combine with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.
+
+  
+
+
+
+## Results
+
+## Discussion
+
+## Limitations
