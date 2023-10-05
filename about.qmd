@@ -1,14 +1,10 @@
 ---
 title: "About"
-image: ""
+image: "IMG_1783.JPG"
 about:
   template: jolla
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com
 ---
 
-CUNY Brooklyn COllege Student Blog
+CUNY Brooklyn College Student Blog
 
 ### C Miller

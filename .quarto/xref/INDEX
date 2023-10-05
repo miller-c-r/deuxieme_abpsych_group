@@ -25,5 +25,11 @@
   },
   "posts/the_article/index.qmd": {
     "index.html": "83e11833"
+  },
+  "posts/a_slideshow/index.qmd": {
+    "index.html": "80c9e277"
+  },
+  "posts/a_slideshow/troisieme_slides.qmd": {
+    "troisieme_slides.html": "daa5b014"
   }
 }
