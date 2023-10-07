@@ -2,7 +2,6 @@
 title: "Stressor-Cortisol Concordance A Slide Deck"
 date: "2023-11-03"
 image: "IMG_1784.JPG"
-
 ---
 
 ### Psychological Disorders II
@@ -13,11 +12,10 @@ image: "IMG_1784.JPG"
 
 2.  "J..."
 
-3. "E.."
+3.  "E.."
 
 ## Article Title
 
 Reappraising Test Anxiety Increases Academic Performance of First-Year College Students
-
 
 [The Slide Deck](troisieme_slides.qmd)
