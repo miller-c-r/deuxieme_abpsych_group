@@ -1,9 +1,7 @@
 ---
 title: " Images of THe Hypothalamus-Pituitary-Adrenal Axis"
 date: "2023-11-03"
-
+image: "stressor_image.png"
 ---
 
-
-
-## Diagrams of the Biological Stress Model
+## Diagrams of Brain Regions, Endocrine System and Hypothalamic Pituitary Axis
