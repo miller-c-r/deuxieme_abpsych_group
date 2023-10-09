@@ -14,8 +14,10 @@ image: "IMG_1784.JPG"
 
 3.  "E.."
 
-## Article Title
+[Link to Article](https://www.sciencedirect.com/science/article/pii/S0306453020300688?via%3Dihub)
 
-Reappraising Test Anxiety Increases Academic Performance of First-Year College Students
+[Article PDF](the_article/cortisol-stress-psychosis.pdf)
 
-[The Slide Deck](troisieme_slides.qmd)
+
+
+[The Slide Deck](slides_moi.qmd)
