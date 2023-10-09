@@ -28,17 +28,74 @@ Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psycho
 
 1.  Concordance
 
-<!-- -->
-
-b.  Hypothalamic-pituitary-adrenal(HPA) axis The central physiological mechanism linking psychosocial stress to the onset and exacerbation of schizophrenia and related psychotic disorders
-
-<!-- -->
-
 2.  HPA dysregulation
 
-3.  HPA axis
+3.  Prodrome/ Prodromal
 
-4.  Prodrome/ Prodromal
+
+<!-- -->
+
+## Hypothalamic-pituitary-adrenal(HPA) axis 
+
+## {background-image="jubb_hpa_axis.png" background-size="600px"}
+
+## HPA Part I
+#### The body activates stress systems on exposure to a stressor; the autonomic nervous system initiates a rapid and relatively short‐lived ‘fight‐or‐flight’ response, whilst the HPA axis is slower, instigating a more protracted response. 
+
+## HPA Part II
+#### Tight regulation of the HPA axis is core to the long‐term control of systems governing stress responsivity.
+
+#### Following  a  stressor,  the  neuropeptides  corticotropin‐releasing  hormone  (CRH)  and  argi-nine vasopressin (AVP) are released from the paraventricular nucleus (PVN) of the hypothala-mus into the portal vessel system. 
+
+##HPA Part III
+#### These bind specific receptors (the CRHR1 and V1b receptors for CRH and AVP, respectively) in the anterior pituitary that stimulate the release of adreno-corticotropic  hormone  (ACTH). (Jubb, 2016) 
+
+## {background-image="stress_image1.png" background-size="600px"} 
+## HPA Part IV
+
+#### Schematic representation of the hypothalamic-pituitary–adrenal (HPA) axis. Following the perception of a stressor, the hypothalamus releases CRF, which activates the pituitary and leads to secretion of ACTH. The levels of ACTH are detected by the adrenal cortex which then secretes glucocorticoids and catecholamines
+
+## HPA Part V
+#### This  in  turn  acts  on  the  adrenal  cortex  to  synthesize  and  release glucocorticoid hormones, i.e. cortisol/corticosterone. These then mobilize glucose from energy stores and increase cardiovascular tone, among further widespread effects. 
+
+## HPA Part VI
+#### Feedback loops,  primarily  mediated  at  the  PVN  and  pituitary  through  glucocorticoid  receptors  (GR),  restrain the responsiveness of the HPA axis to reset the system to baseline activity (Figure 6.1). In  sum,  the  forward  loop  prepares  the  organism  to  anticipate  and  respond  optimally  to  a  threat, while the feedback loop ensures returning efficiently to a homeostatic balance when it is no longer challenged
+
+
+## Human Brain Anatomy 
+
+## {background-image="yale_brain.png" background-size="800px"}
+
+
+## The Endocrine System
+
+## Hypothalamus & Pituitary Gland
+
+
+## Hypothalamus Part I
+#### The hypothalamus monitors the internal systems keeping homeostasis through its neural connections, controlling the release of various hormones. 
+
+## Hypothalamus Part II
+#### It regulates sleep, hunger, thirst, body temperature, blood pressure, hormone secretion, and water balance.  The hypothalamus interacts mostly with the nervous system, and the endocrine system, stimulating organs to release hormones. It is only the size of a dime.
+
+## Pituitary Gland Part I
+####  it is sometimes designated as the master gland. It is about the size of an acorn. The pituitary is actually two glands in one, the posterior and anterior. 
+
+## Pituitary Gland Part II
+#### The posterior pituitary manufactures no hormones of its own, but stores two hormones that are initially secreted in a part of the brain known as the hypothalamus. The hormones are oxytocin, which is believed to stimulate labor at the end of pregnancy, and vasopressin, which helps the body retains its fluids.
+
+## Pituitary Gland Part III
+#### The anterior pituitary controls the overall growth of the body. The anterior portion has many functions and several of its hormones have been isolated.
+
+## Pituitary Gland Part IV
+
+The anterior  pituitary  contains  endocrine  cells  which  produce  several  hormones  (adrenocorticotropic  hormone [ACTH], thyroid‐stimulating hormone [TSH], follicle‐stimulating hormone [FSH], luteinizing hormone [LH[, growth hormone [GH], prolactin [PRL]) under tight control of hormones produced by the neurons in hypothalamic nuclei, and delivered to the anterior pituitary via the portal system, ‘skipping’ the general circulation. (Jubb 2016)
+
+
+
+
+<!-- -->
+
 
 ## Background
 
@@ -101,3 +158,16 @@ d.  Met criteria for one or more prodromal syndromes 1. Attenuated psychotic sym
 
 ## Limitations
 
+## References
+
+#### Jubb. (2016). Molecular neuroendocrinology : from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell. Page 94 Page 122
+
+#### Lupien, Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007). The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition. Brain and Cognition, 65(3), 209–237. https://doi.org/10.1016/j.bandc.2007.02.007
+
+
+
+
+
+## Thank You !!
+
+#### Thank you for following along during our presentation
