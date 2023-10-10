@@ -18,6 +18,4 @@ image: "IMG_1784.JPG"
 
 [Article PDF](the_article/cortisol-stress-psychosis.pdf)
 
-
-
 [The Slide Deck](slides_moi.qmd)

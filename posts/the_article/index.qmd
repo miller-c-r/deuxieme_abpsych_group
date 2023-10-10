@@ -10,6 +10,4 @@ image: "yale_brain.png"
 
 [Link to Article](https://www.sciencedirect.com/science/article/pii/S0306453020300688?via%3Dihub)
 
-[Article PDF](the_article/cortisol-stress-psychosis.pdf)
-
-##### References
+[Article PDF](cortisol-stress-psychosis.pdf)
