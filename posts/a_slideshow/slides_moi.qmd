@@ -201,9 +201,8 @@ a.  Exclusion criteria
 
 b.  Initial assessment
 
-```{=html}
 <!-- -->
-```
+
 1.  Conducted by clinically trained interviewers
 
 2.  Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
