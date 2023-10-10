@@ -13,7 +13,7 @@ image: "stress_image1"
 ---
 
 ::: callout-note
-C Miller's Student Blog
+C Miller, E. M. , J. N. 's  Student Blog
 :::
 
 ::: {.callout-caution collapse="true"}
