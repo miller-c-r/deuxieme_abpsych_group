@@ -35,9 +35,9 @@ Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psycho
 
 3.  Prodrome/ Prodromal
 
-4. Endocrine System
+4.  Endocrine System
 
-5. HPA Axis
+5.  HPA Axis
 
 <!-- -->
 
@@ -71,7 +71,7 @@ This in turn acts on the adrenal cortex to synthesize and release glucocorticoid
 
 ## HPA Part VI
 
-Feedback loops, primarily mediated at the PVN and pituitary through glucocorticoid receptors (GR), restrain the responsiveness of the HPA axis to reset the system to baseline activity (Figure 6.1). 
+Feedback loops, primarily mediated at the PVN and pituitary through glucocorticoid receptors (GR), restrain the responsiveness of the HPA axis to reset the system to baseline activity (Figure 6.1).
 
 In sum, the forward loop prepares the organism to anticipate and respond optimally to a threat, while the feedback loop ensures returning efficiently to a homeostatic balance when it is no longer challenged
 
@@ -85,12 +85,9 @@ The endocrine system, made up of all the body's different hormones, regulates al
 
 Including the development of the brain and nervous system, the growth and function of the reproductive system, as well as the metabolism and blood sugar levels.(EPA, 2023 )
 
-
-
 ##  {background-image="endocrine_system.jpg" background-size="600px"}
 
-## Endocrine System Part II 
-
+## Endocrine System Part II
 
 The Hypothalamus, Pituitary Gland, Thyroid Gland
 
@@ -98,19 +95,13 @@ The Adrenal Glands, Pancreas, Gonads Female Ovaries, Male Testis
 
 For example: Pancreas - The pancreas is responsible for producing glucagon and insulin. Both hormones help regulate the concentration of glucose (sugar) in the blood.
 
-
 [United States Environmental Protection Agency Endocrine System](https://www.epa.gov/endocrine-disruption/overview-endocrine-system)
-
-
-
-
 
 ## Hypothalamus & Pituitary Gland
 
 ## Hypothalamus Part I
 
 Hypothalamus - The hypothalamus links our endocrine and nervous systems together. The hypothalamus drives the endocrine system.(EPA, 2023)
-
 
 The hypothalamus monitors the internal systems keeping homeostasis through its neural connections, controlling the release of various hormones.
 
@@ -132,17 +123,17 @@ The anterior pituitary controls the overall growth of the body. The anterior por
 
 ## Pituitary Gland Part IV
 
-The anterior pituitary contains endocrine cells which produce several hormones (adrenocorticotropic hormone \[ACTH\], thyroid‐stimulating hormone \[TSH\], follicle‐stimulating hormone \[FSH\], luteinizing hormone \[LH\[, growth hormone \[GH\], prolactin \[PRL\]) 
+The anterior pituitary contains endocrine cells which produce several hormones (adrenocorticotropic hormone \[ACTH\], thyroid‐stimulating hormone \[TSH\], follicle‐stimulating hormone \[FSH\], luteinizing hormone \[LH\[, growth hormone \[GH\], prolactin \[PRL\])
 
 ## Pituitary Gland Part IV
 
 Under tight control of hormones produced by the neurons in hypothalamic nuclei, and delivered to the anterior pituitary via the portal system, 'skipping' the general circulation. (Jubb 2016)
 
 ## The Journal Article
+
 ### Background
 
 The neural diathesis stress model and clinical risk for psychosis Abnormalities in the HPA axis , places individuals at increased vulnerability for psychosis
-
 
 ## A QALMRI
 
@@ -150,9 +141,7 @@ The neural diathesis stress model and clinical risk for psychosis Abnormalities 
 
 ## Broad Question
 
-  Elevations in basal cortisol levels have been reported among individuals at-risk for psychosis, the extent to
-which this represents hyperresponsivity of the hypothalamic-pituitary-adrenal (HPA) axis to psychosocial stressors encountered in the natural environment is currently **unclear**. 
-
+Elevations in basal cortisol levels have been reported among individuals at-risk for psychosis, the extent to which this represents hyperresponsivity of the hypothalamic-pituitary-adrenal (HPA) axis to psychosocial stressors encountered in the natural environment is currently **unclear**.
 
 ## Question
 
@@ -160,24 +149,24 @@ which this represents hyperresponsivity of the hypothalamic-pituitary-adrenal (H
 
 Examining stressor-cortisol concordance among youth at clinical high-risk (CHR) for psychosis in the North American Prodrome Longitudinal Study 2 (NAPLS 2) and the relationship with clinical outcome.
 
-
-
 ## Specific Question
 
 Determining the extent to which HPA axis responsivity in at-risk youth predicts clinical outcome is important
 
 ## Specific Question
+
 ### Authors Hypothesized Three Predicted Outcomes for CHR youth who converted to psychosis
 
 CHR youth who later converted to psychosis would show:
 
-  1. Greater exposure and distress in relation to psychosocial stressors
+1.  Greater exposure and distress in relation to psychosocial stressors
 
-  2. Elevated basal cortisol
+2.  Elevated basal cortisol
 
-  3. Higher stressor-cortisol concordance relative to healthy controls
-            
+3.  Higher stressor-cortisol concordance relative to healthy controls
+
 ## Specific Question
+
 ### Authors Hypothesized the Following Predicted Outcome for CH youth "nonconverters"
 
 CHR nonconverters: Would be intermediate to CHR converters subgroups and healthy controls. Determined by measurement of positive symptom progression.
@@ -187,7 +176,8 @@ CHR nonconverters: Would be intermediate to CHR converters subgroups and healthy
 Utilizing data from North American Prodrome Longitudinal Study 2 NAPLS 2
 
 ## Methods
-### Subjects: 
+
+### Subjects:
 
 1.  662 participants
 
@@ -198,42 +188,49 @@ Utilizing data from North American Prodrome Longitudinal Study 2 NAPLS 2
 <!-- -->
 
 ## Methods
+
 #### CHR Subjects:
 
-a.  Exclusion criteria 
-    1. Axis-1 psychotic disorder 
-    2. Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement
+a.  Exclusion criteria
+    1.  Axis-1 psychotic disorder
+    2.  Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement
 
 ## Methods
+
 ### CHR Subjects cont'd
 
-b.  Initial assessment 
+b.  Initial assessment
 
-  1. Conducted by clinically trained interviewers
+```{=html}
+<!-- -->
+```
+1.  Conducted by clinically trained interviewers
 
-        
-  2. Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
-  3. Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV
+2.  Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
+
+3.  Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV
 
 ## Methods
+
 ### CHR Subjects cont'd
 
 c.  Help Seeking
 
-d.  Met criteria for one or more prodromal syndromes 
-    1. Attenuated psychotic symptoms 
-    2. Brief intermittent psychotic symptoms 
-    3. Substantial functional decline combine with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.
+d.  Met criteria for one or more prodromal syndromes
+
+    1.  Attenuated psychotic symptoms
+    2.  Brief intermittent psychotic symptoms
+    3.  Substantial functional decline combine with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.
 
 ## Methods
+
 #### Healthy Controls
 
-1.	Exclusion criteria:
-	   a. Non psychotic psychiatric disorders were permitted
-	   b. Substance dependence in the past 6 months
-	   c. IQ < 70
-	   d. Neurological disorder
-
+1.  Exclusion criteria:
+    a.  Non psychotic psychiatric disorders were permitted
+    b.  Substance dependence in the past 6 months
+    c.  IQ \< 70
+    d.  Neurological disorder
 
 ## Results
 
