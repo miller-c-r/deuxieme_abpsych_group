@@ -1,5 +1,5 @@
 ---
-title: "Stressor-Cortisol Concordance A Slide Deck"
+title: "Stressor-Cortisol Concordance, The Article"
 date: "2023-11-03"
 image: "jubb_hpa_axis.png"
 ---

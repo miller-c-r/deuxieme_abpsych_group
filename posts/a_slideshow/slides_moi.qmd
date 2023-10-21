@@ -9,242 +9,662 @@ execute:
   echo: false
 ---
 
-### Back to Home
+## CUNY Brooklyn College PSYC 3810 Psychological Disorders II
+
+A Presentation on Cortisol Concordance and HPA Axis Responsivity by:
+
+E. Medrano
+
+C. Miller
+
+J. Navarro
+
+
+
+
+##### Link Back to Home
 
 [Link to Home](https://miller-c-r.github.io/deuxieme_abpsych_group/)
 
-#### Presentation brought to you by:
-
-1.  Chantal M
-
-2.  "J..."
-
-3.  "E..."
-
-## The Article
+## The Journal of Psychoneuroendocrinology
 
 Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psychosis: Novel Findings from the NAPLS Cohort
 
 [Link to Article](cortisol-stress-psychosis)
 
+## Key Terms {.scrollable}
+
+Prodrome/ Prodromal
+
+-   APA defines prodrome: an early symptom or symptoms of a mental or physical disorder. A prodrome frequently serves as a warning or premonitory sign that may, in some cases, enable preventive measures to be taken. ​
+
+​
+
+Endocrine System​
+
+-   The endocrine system consists of: Glands located throughout the body; Hormones made by the glands and released into the bloodstream or the fluid surrounding cells; and Receptors in various organs and tissues that recognize and respond to the hormones.​
+
+​
+
+Diathesis​
+
+-   predisposition toward a particular state or condition and especially one that is abnormal or diseased (Merriam-Webster, n.d.)​
+
+-   ​The stress diathesis model postulates the interaction between a genetic vulnerability or predisposition and adverse life events in the genesis of \[a disorder\] (Ladd, Charlotte O., Huot, Rebecca L. , et. al, 2000)​ <!-- -->
+
 ## Key Terms
 
-1.  Concordance
+Concordance​
 
-2.  HPA dysregulation
+Hypothalamic-Pituitary-Adrenal (HPA) Axis​
 
-3.  Prodrome/ Prodromal
+-   Involves the The Hypothalamus, Pituitary Gland and Adrenal Glands​
 
-4.  Endocrine System
+-   Activates stress systems on exposure to a stressor​
 
-5.  HPA Axis
+Diathesis Stress Model​
 
-<!-- -->
+-   The neural diathesis stress model and clinical risk for psychosis Abnormalities in the HPA axis , places individuals at increased vulnerability for psychosis
 
-## Hypothalamic-pituitary-adrenal(HPA) axis
+## Background {.scrollable}
 
-##  {background-image="jubb_hpa_axis.png" background-size="600px"}
+1997 Schizophrenia: A neural diathesis-stress model​
 
-## HPA Part I
+This article hypothesized about the neural mechanisms involved in the effects of stressors on the diathesis. Both the behavioral and biological data indicate that stress worsens symptoms, and that the diathesis is associated with a heightened response to stressors.​
 
-The body activates stress systems on exposure to a stressor; the autonomic nervous system initiates a rapid and relatively short‐lived 'fight‐or‐flight' response, whilst the HPA axis is slower, instigating a more protracted response.
 
-## HPA Part II
+Walker EF, Diforio D. Schizophrenia: a neural diathesis-stress model. Psychol Rev. 1997 Oct;104(4):667-85. doi: 10.1037/0033-295x.104.4.667. PMID: 9337628.​
 
-Tight regulation of the HPA axis is core to the long‐term control of systems governing stress responsivity.
+https://pubmed.ncbi.nlm.nih.gov/9337628/​
 
-Following a stressor, the neuropeptides corticotropin‐releasing hormone (CRH) and argi-nine vasopressin (AVP) are released from the paraventricular nucleus (PVN) of the hypothala-mus into the portal vessel system.
+​
 
-## HPA Part III
+## Background
 
-These bind specific receptors (the CRHR1 and V1b receptors for CRH and AVP, respectively) in the anterior pituitary that stimulate the release of adreno-corticotropic hormone (ACTH). (Jubb, 2016)
+2001 Developmental changes in cortisol secretion in normal and at-risk youth​
 
-##  {background-image="stress_image1.png" background-size="600px"}
+A longitudinal study that measured cortisol secretion in relation to symptom development​
 
-## HPA Part IV
+Walker EF, Walder DJ, Reynolds F. Developmental changes in cortisol secretion in normal and at-risk youth. Dev Psychopathol. 2001 Summer;13(3):721-32. doi: 10.1017/s0954579401003169. PMID: 11523856.​
+https://pubmed.ncbi.nlm.nih.gov/11523856/​
 
-Schematic representation of the hypothalamic-pituitary--adrenal (HPA) axis. Following the perception of a stressor, the hypothalamus releases CRF, which activates the pituitary and leads to secretion of ACTH. The levels of ACTH are detected by the adrenal cortex which then secretes glucocorticoids and catecholamines
+​
 
-## HPA Part V
+​
 
-This in turn acts on the adrenal cortex to synthesize and release glucocorticoid hormones, i.e. cortisol/corticosterone. These then mobilize glucose from energy stores and increase cardiovascular tone, among further widespread effects.
+## Background {.scrollable}
 
-## HPA Part VI
+2017 The neural diathesis-stress model of schizophrenia revisited: An update on recent findings considering illness stage and neurobiological and methodological complexities​
 
-Feedback loops, primarily mediated at the PVN and pituitary through glucocorticoid receptors (GR), restrain the responsiveness of the HPA axis to reset the system to baseline activity (Figure 6.1).
+Investigates evidence on the premorbid periods of psychosis, and our more nuanced understanding of (HPA) axis function and its association with neurodevelopmental, epigenetic, neurotransmitter, and inflammatory processes, as well as brain structure and function. ​
 
-In sum, the forward loop prepares the organism to anticipate and respond optimally to a threat, while the feedback loop ensures returning efficiently to a homeostatic balance when it is no longer challenged
+A review of relevant research published since the 2008 update of the model. Propose an extended neural diathesis-stress model that addresses the broader neurobiological context of stress psychobiology in psychosis progression. ​
 
-## Human Brain Anatomy
+Marita Pruessner, Alexis E. Cullen, et. al . The neural diathesis-stress model of schizophrenia revisited: An update on recent findings https://www.sciencedirect.com/science/article/pii/S0149763416301713)​
 
-##  {background-image="yale_brain.png" background-size="800px"}
+​
 
-## The Endocrine System Part I
+## A Brief Review of Human Brain Anatomy and the Endocrine System​
 
-The endocrine system, made up of all the body's different hormones, regulates all biological processes in the body.
+## The Endocrine System
 
-Including the development of the brain and nervous system, the growth and function of the reproductive system, as well as the metabolism and blood sugar levels.(EPA, 2023 )
+The endocrine system made up of all of the body's different hormones, regulates all biological processes in the body​
+
+Including development of the brain and nervous system, the growth and function of the reproductive system, as well as the metabolism and blood sugar levels.(EPA, 2023).​
 
 ##  {background-image="endocrine_system.jpg" background-size="600px"}
 
 ## Endocrine System Part II
 
-The Hypothalamus, Pituitary Gland, Thyroid Gland
+The Endocrine System consists of:​
 
-The Adrenal Glands, Pancreas, Gonads Female Ovaries, Male Testis
+The Hypothalamus, pituitary gland, thyroid gland, the adrenal glands, pancreas and gonads ( female ovaries, male testis)​
 
-For example: Pancreas - The pancreas is responsible for producing glucagon and insulin. Both hormones help regulate the concentration of glucose (sugar) in the blood.
+## The Hypothalamus & The Pituitary Gland
 
-[United States Environmental Protection Agency Endocrine System](https://www.epa.gov/endocrine-disruption/overview-endocrine-system)
+##  {background-image="yale_brain.png" background-size="800px"}
 
-## Hypothalamus & Pituitary Gland
+## The Hypothalamus
 
-## Hypothalamus Part I
+The hypothalamus links our nervous and endocrine systems together. The hypothalamus drives the endocrine system (EPA , 2023) ​
 
-Hypothalamus - The hypothalamus links our endocrine and nervous systems together. The hypothalamus drives the endocrine system.(EPA, 2023)
+​
 
-The hypothalamus monitors the internal systems keeping homeostasis through its neural connections, controlling the release of various hormones.
+The hypothalamus monitors internal systems keeping homeostasis through its neural connections, controlling the release of various hormones.​
 
-## Hypothalamus Part II
+​
 
-It regulates sleep, hunger, thirst, body temperature, blood pressure, hormone secretion, and water balance. The hypothalamus interacts mostly with the nervous system, and the endocrine system, stimulating organs to release hormones. It is only the size of a dime.
+## The Hypothalamus Part II
 
-## Pituitary Gland Part I
+Regulates sleep, hunger, thirst, body temperature, blood pressure, hormone secretion and water balance​
 
-It is sometimes designated as the master gland. It is about the size of an acorn. The pituitary is actually two glands in one, the posterior and anterior.
+​
 
-## Pituitary Gland Part II
+Interacts mostly with the nervous system and the endocrine system stimulating organs to release hormones. It is the size of a dime​
 
-The posterior pituitary manufactures no hormones of its own, but stores two hormones that are initially secreted in a part of the brain known as the hypothalamus. The hormones are oxytocin, which is believed to stimulate labor at the end of pregnancy, and vasopressin, which helps the body retains its fluids.
+## The Pituitary Gland
 
-## Pituitary Gland Part III
+Regulates sleep, hunger, thirst, body temperature, blood pressure, hormone secretion and water balance​
 
-The anterior pituitary controls the overall growth of the body. The anterior portion has many functions and several of its hormones have been isolated.
+​
 
-## Pituitary Gland Part IV
+Interacts mostly with the nervous system and the endocrine system stimulating organs to release hormones. It is the size of a dime​
 
-The anterior pituitary contains endocrine cells which produce several hormones (adrenocorticotropic hormone \[ACTH\], thyroid‐stimulating hormone \[TSH\], follicle‐stimulating hormone \[FSH\], luteinizing hormone \[LH\[, growth hormone \[GH\], prolactin \[PRL\])
+## The Pituitary Gland Part II
 
-## Pituitary Gland Part IV
+The posterior pituitary manufactures no hormones of its own , but stores two hormones that are initially secreted in a part of the brain known as the hypothalamus​
 
-Under tight control of hormones produced by the neurons in hypothalamic nuclei, and delivered to the anterior pituitary via the portal system, 'skipping' the general circulation. (Jubb 2016)
+The hormones are oxytocin and vasopressin​
 
-## The Journal Article
+## The Pituitary Gland Part III
 
-### Background
+The anterior pituitary controls the overall growth of the body. The anterior portion has many functions and several of its hormones have been isolated.​
 
-The neural diathesis stress model and clinical risk for psychosis Abnormalities in the HPA axis , places individuals at increased vulnerability for psychosis
+##  {background-image="jubb_hpa_axis.png" background-size="600px"}
 
-## A QALMRI
+## HPA Axis Part I
 
-## Question
+The body activates stress systems on exposure to a stressor; the autonomic nervous system initiates a rapid and relatively short-lived "flight or fight" response, whilst the HPA axis is slower, a more protracted response. (Jubb, 2016).​
 
-## Broad Question
+## HPA Part II
 
-Elevations in basal cortisol levels have been reported among individuals at-risk for psychosis, the extent to which this represents hyperresponsivity of the hypothalamic-pituitary-adrenal (HPA) axis to psychosocial stressors encountered in the natural environment is currently **unclear**.
+Tight regulation of the HPA axis is core to the long-term control of systems governing stress responsivity​
 
-## Question
+​
 
-## Specific Question
+Following a stressor corticotropin-releasing hormone (CRH) and Vasopressin (AVP) are released from the hypothalamus​
 
-Examining stressor-cortisol concordance among youth at clinical high-risk (CHR) for psychosis in the North American Prodrome Longitudinal Study 2 (NAPLS 2) and the relationship with clinical outcome.
+​
 
-## Specific Question
+They bind specific receptors for CRH and AVP in the anterior pituitary that stimulate the release of Adreno-corticotropic hormone (ACTH). (Jubb, 2016).​
 
-Determining the extent to which HPA axis responsivity in at-risk youth predicts clinical outcome is important
+##  {background-image="stress_image1.png" background-size="600px"}
 
-## Specific Question
+Following the perception of a stressor the hypothalamus releases CRF, which activates pituitary and leads to the secretion of ACTH. This is detected by the adrenal cortex which then secretes glucocorticoids and catecholamines. (Lupien et. Al , 2007)​
 
-### Authors Hypothesized Three Predicted Outcomes for CHR youth who converted to psychosis
+## HPA Part III
 
-CHR youth who later converted to psychosis would show:
+Now that the Pituitary has released ACTH...​
 
-1.  Greater exposure and distress in relation to psychosocial stressors
+The adrenal cortex releases glucocorticoid hormones , cortisol/corticosterone. (Stress Hormones)​
 
-2.  Elevated basal cortisol
+These then mobilize glucose from energy stores and have widespread effects (Jubb, 2016).​
 
-3.  Higher stressor-cortisol concordance relative to healthy controls
+## The Neuroscience Paradigm {.scrollable}
 
-## Specific Question
+​
 
-### Authors Hypothesized the Following Predicted Outcome for CH youth "nonconverters"
+There are 3 main components ​
 
-CHR nonconverters: Would be intermediate to CHR converters subgroups and healthy controls. Determined by measurement of positive symptom progression.
+-Neurons and neurotransmitters​
 
-## Methods
+-Brain structure and function​
 
-Utilizing data from North American Prodrome Longitudinal Study 2 NAPLS 2
+-Neuroendocrine system (hormones)​
 
-## Methods
+The hypothalamic-pituitary-adrenal axis (HPA) is the main stress response system. It is the neuroendocrine link between perceived stress and physiological reactions to stress (Breedlove and Watson, 2013)​
 
-### Subjects:
+The neural diathesis stress model for psychosis abnormalities in the HPA axis puts individuals at increased vulnerability for psychosis. ​
 
-1.  662 participants
+Individuals with increased vulnerability for psychosis are more sensitive to the effects of psychosocial stressors due to abnormalities within the HPA which in turn eventually trigger expression of psychotic illness.​
 
-2.  Age
+Patients with psychosis exhibit elevated basal cortisol relative to healthy controls.​
 
-3.  CHR subjects
+## Question {.scrollable}
 
-<!-- -->
+Broad Question- Elevations in basal cortisol levels have been reported among individuals at-risk for psychosis, the extent to which this represents hyperresponsivity of the hypothalamic-pituitary-adrenal (HPA) axis to psychosocial stressors encountered in the natural environment is currently unclear.​
 
-## Methods
+Specific Question- They examined stressor-cortisol concordance among youth at clinical high-risk (CHR) for psychosis in the North American Prodrome Longitudinal Study 2 (NAPLS 2) and the relationship with clinical outcome.​
 
-#### CHR Subjects:
+Specific Question- Determining the extent to which HPA axis responsivity in at-risk youth predicts clinical outcome is important, as such work might ultimately help to identify individuals at increased risk of illness progression by virtue of being more sensitive to the effects of psychosocial stress, enabling targeted interventions.​
 
-a.  Exclusion criteria
-    1.  Axis-1 psychotic disorder
-    2.  Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement
+​
 
-## Methods
+## Alternative Hypothesis
 
-### CHR Subjects cont'd
+The degree of stressor-cortisol concordance, when pooled across stressors, would increase in parallel with the level of symptom expression at follow-up ​
 
-b.  Initial assessment
+controls <-- remitted <-- symptomatic <-- progression of psychotic symptoms <-- converters​
 
-<!-- -->
+## Logic and Design {.scrollable}
 
-1.  Conducted by clinically trained interviewers
 
-2.  Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)
+Cullen et. al aimed to further characterize the nature of HPA axis abnormalities among individuals at-risk for psychosis by examining psychosocial stressors, basal cortisol, and the concordance between these measures in a large sample of CHR youth categorized according to clinical status at the two-year follow-up.​
 
-3.  Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV
+They utilized data from the North American Prodrome Longitudinal Study 2 (NAPLS 2) and investigated whether psychosocial stressors, basal cortisol levels, and stressor-cortisol concordance (i.e., the magnitude of association between psychosocial stressors and cortisol) at the baseline assessment differed across healthy controls and CHR subgroups defined on the basis of their clinical presentation at the two-year follow-up (remitted, symptomatic, progression of positive symptoms, and converted to psychosis).​
+
 
 ## Methods
 
-### CHR Subjects cont'd
+Subjects:​
 
-c.  Help Seeking
+662 Participants​
 
-d.  Met criteria for one or more prodromal syndromes
+12-35 years at age of recruitment​
 
-    1.  Attenuated psychotic symptoms
-    2.  Brief intermittent psychotic symptoms
-    3.  Substantial functional decline combine with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.
+Two groups: CHR subjects (clinical high-risk) for psychosis in the North American Prodrome Longitudinal Study 2 (NAPLS 2) and Healthy controls​
+
+​
 
 ## Methods
 
-#### Healthy Controls
+Stress Measures​
 
-1.  Exclusion criteria:
-    a.  Non psychotic psychiatric disorders were permitted
-    b.  Substance dependence in the past 6 months
-    c.  IQ \< 70
-    d.  Neurological disorder
+​
+
+​
+
+Stress measures were recorded using:​
+
+ 58 item, Daily Stress Inventory,​
+
+Life events were assessed via the Psychiatric Epidemiology Research Interview Life Events Scale that was modified to exclude life events of lesser relance to youth (divorce and financial losses) ​
+
+lastly participants completed the Childhood Trauma and Abuse Scale, a semi-structured interview examining experiences of physical, sexual, and psychological abuse and emotional neglect prior to the age of 16. ​
+
+​
+
+## CHR Youth versus Healthy Controls​
+
+
+## CHR Subjects
+
+Exclusion criteria​
+
+Axis-1 psychotic disorder (DSM IV Mood, Psychotic...disorders)​
+
+Permitted treatment with antipsychotic medication provided full psychotic symptoms were not present at the time of medication commencement​
+
+​
+
+Met criteria for one or more prodromal syndromes​
+
+Attenuated psychotic symptoms​
+
+Brief intermittent psychotic symptoms​
+
+Substantial functional decline combined with a first degree relative with a psychotic disorder or schizotypal personality disorder in individuals younger than 18 years.​
+
+​
+
+​
+
+## CHR Subjects
+
+​
+
+Help Seeking​
+
+​
+
+Initial assessment​
+
+Conducted by clinically trained interviewers​
+
+Prodromal syndromes were assessed using the Criteria of Prodromal Syndromes (COPS) based on the Structured Interview for Prodromal Syndromes(SIPS)​
+
+Psychiatric diagnoses were determined via the Structured Clinical Interview (SCID) for DSM-IV​
+
+​
+
+## Healthy Controls
+
+Recruited from the community​
+
+No personal history or first-degree relative with psychosis​
+
+Did not meet prodromal syndrome criteria​
+
+Exclusion criteria​
+
+Non psychotic psychiatric disorders were permitted​
+
+Substance dependence in the past 6 months​
+
+IQ < 70​
+
+Neurological disorder​
+
+​
+
+## Methods
+
+Researchers assessed HPA axis function using basal salivary cortisol collected in the laboratory, as it is more reliable and, unlike home sampling methods, unlikely to be influenced by confounding factors such as exercise. ​
+
+Prodromal symptoms were assessed via the Structured Interview for Prodromal Syndromes (SIPS) at 12- and 24-month follow-up assessments and used to categorise CHR subgroups​
+
+## Methods cont'd 
+
+​
+
+At the research session subjects provided 3 saliva samples, one per hour with a mean salivary cortisol value subsequently derived when two or more samples were available.​
+
+​
+
+​
+
+Researchers created a Five- level categorical variable consisting of​
+
+Cortisol collected before the stress measurement​
+
+Cortisol same day as stressor assessments​
+
+Cortisol 1-10 days after stress measurement​
+
+Cortisol 11-30 days after​
+
+Cortisol > 30 days after​
+
+​
+
+​
 
 ## Results
 
+
+## Stressor-Cortisol Concordance
+
+###  {background-image="lapse_of_time_in_days_between_cortisol_sample_collection_and_stressor_assessment" background-size="500px"}
+
+
+
+## Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​
+
+​
+### {background-image="table_4.png" background-size="500px"}
+
+## Results
+
+
+{background-image="95_percent_confidence_intervals.png" background-size="500px"}
+
+## Results
+
+Of the 457 CHR individuals included in the current study: ​
+
+134 (29.3%) showed a remission of CHR symptoms​
+
+130 (28.4%) remained symptomatic​
+
+124 (27.1%) experienced a progression of positive symptoms​
+
+69 (15.1%) converted to psychosis.  ​
+
+
+## Inferences
+
+Stress measures versus basal cortisol​
+
+Daily stressor distress was significantly associated with cortisol in controls and CHR converters​
+
+None of the stress measures: 58-item Daily Stress Inventory ;Psychiatric Epidemiology Research Interview Life Events Scale; Childhood trauma and abuse scale, were significantly associated with cortisol in the CHR remitted, symptomatic or progressed subgroups​
+
+​
+
+## Inferences {.scrollable}
+
+In conclusion, in line with their hypothesis, while all CHR subgroups showed increased psychosocial stress exposure and distress relative to controls, ​
+
+Only those who later converted to psychosis (CHR converters) were characterized by significantly elevated basal cortisol levels. ​
+
+Moreover, only CHR converters showed a higher magnitude of stressor-cortisol concordance compared to controls, ​
+
+although confidence intervals overlapped considerably between these two groups. These findings do not support the notion that all individuals at CHR for psychosis show HPA hyperresponsiveness to psychosocial stressors. Instead, CHR individuals vary in their response to stressor exposure/distress, perhaps driven by genetic or other vulnerability factors.​
+
+​
+
+## Inferences
+
+Exact mechanisms underlying HPA responsivity to stress are unknown and likely complex​
+
+There are individual differences in responsivity that are likely due to genetic variants​
+
+FKBP5, CRHR1, NR3C1, NR3C2 that modify the effect of acute and chronic stress/trauma on cortisol levels in healthy adolescents and adults and patients with psychosis​
+
+​
+
 ## Discussion
 
-## Limitations
+Limitations​
 
-## References
+Future Research​
 
-Environmental Protection Agency(03/13/2023). Endocrine Disruption Overview of the Endocrine System. https://www.epa.gov/endocrine-disruption/overview-endocrine-system
+## Limitations {.scrollable}
 
-Jubb. (2016). Molecular neuroendocrinology : from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell. Page 94 Page 122
+Individual CHR subgroups were small (particularly the converted group) and reduced their ability to detect statistically significant associations between psychosocial stressors and cortisol.​
 
-Lupien, Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007). The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition. Brain and Cognition, 65(3), 209--237. https://doi.org/10.1016/j.bandc.2007.02.007
+They did not adjust for multiple comparisons in their primary analyses examining stressor-cortisol concordance and some significant associations arose by chance. However, they tested specific a priori hypotheses and interested in the overall pattern of stressor-cortisol concordance rather than statistical significance. Moreover, they adjusted for a range of potential confounders which, had we not accounted for these variables, would have led to spurious associations.​
 
-## Thank You !!
+## Limitations {.scrollable}
 
-#### Thank you for following along during our presentation
+Another limitation is that a small proportion of participants (16%), experienced a long delay (> two months) between baseline assessment visits, which led to a large lapse-of-time between completion of psychosocial stressor assessments and cortisol collection.​
+
+One major limitation is that they only examined three stressor types. There are other stressors such as urbanicity, neighborhood cohesion, and socioeconomic deprivation relevant to psychosis that might impact the HPA axis function. Considering this, it is possible that examining a wider range of stressors might yield different patterns of stressor-cortisol concordance across CHR subgroups. ​
+
+Their findings are also specific to basal salivary cortisol, other measures such as plasma cortisol, salivary diurnal or awakening cortisol profiles may have produced different results.​
+
+​
+
+## Limitations {.scrollable}
+
+They did not account for psychosocial stressors and other confounding factors/events that may have occurred in the time between baseline and follow-up. It is possible that stressor-cortisol concordance at follow-up does in fact distinguish between CHR subgroups, but that their measure at baseline was too distal to outcome. ​
+
+Lastly, CHR individuals are at elevated risk for a wide range of psychiatric disorders, particularly depression and anxiety (Addington et al., 2017; Addington et al., 2019), and so worsening of prodromal symptoms/transition to psychosis is only one of several potential outcome measures, all of which will inevitably involve more false negatives the shorter the follow-up period. A recent study suggested that well-established risk factors are better at predicting poor functioning in CHR populations than transition to psychosis (Zhang et al., 2019). The extent to which stressor-cortisol concordance at baseline is associated with other non-psychotic disorders and functioning at follow-up is therefore warranted.​
+
+## Future Research
+
+How to approach future research​
+
+Varying assessments of cortisol, in collection​
+
+Neuroimaging of various structures involved in mediating HPA axis function​
+
+Pituitary affinity for glucocorticoid receptors​
+
+Differences between sex​
+
+Polymorphism in genes for glucocorticoid receptor proteins​
+
+## References {.scrollable}
+
+​
+
+Cullen et. al. Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psychosis: Novel Findings from the NAPLS Cohort. Psychoneuroendocrinology. 2020 May;115:104649. doi: 10.1016/j.psyneuen.2020.104649. Epub 2020 Mar 7. PMID: 32197198; PMCID: PMC7193890.​
+
+Dunlavey CJ. Introduction to the Hypothalamic-Pituitary-Adrenal Axis: Healthy and Dysregulated Stress Responses, Developmental Stress and Neurodegeneration. J Undergrad Neurosci Educ. 2018 Jun 15;16(2):R59-R60. PMID: 30057514; PMCID: PMC6057754.​
+
+​
+
+  Jubb. (2016). Molecular neuroendocrinology : from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.​
+
+Ladd, Charlotte O., Huot, Rebecca L. , et. al,(2000). Long-term behavioral and neuroendocrine adaptations to adverse early experience,Progress in Brain Research , 122, 81-103, ISSN 0079-6123, ISBN 9780444500496, https://doi.org/10.1016/S0079-6123(08)62132-9.​
+
+Lupien, Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007). The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition. Brain and Cognition, 65(3), 209–237. https://doi.org/10.1016/j.bandc.2007.02.007​
+
+Marita Pruessner, Alexis E. Cullen, Monica Aas, Elaine F. Walker, The neural diathesis-stress model of schizophrenia revisited: An update on recent findings considering illness stage and neurobiological and methodological complexities, Neuroscience & Biobehavioral Reviews, Volume 73, 2017,Pages 191-218,ISSN 0149-7634,https://doi.org/10.1016/j.neubiorev.2016.12.013​
+
+Merriam-Webster. (n.d.). Diathesis. In Merriam-Webster.com dictionary. Retrieved October 21, 2023, from https://www.merriam-webster.com/dictionary/diathesis​
+
+United States Environmental Protection Agency. (2023, March 13). Overview of the endocrine system | US EPA. https://www.epa.gov/endocrine-disruption/overview-endocrine-system ​
+
+​
+
+Walker EF, Walder DJ, Reynolds F. Developmental changes in cortisol secretion in normal and at-risk youth. Dev Psychopathol. 2001 Summer;13(3):721-32. doi: 10.1017/s0954579401003169. PMID: 11523856.​
+
+​
+
+​
+
+​
+
+## Discussion Questions
+
+## Comparison Article on Youth Stress Response
+
+​
+
+Frontiers in Psychiatry​
+
+Acute Physiological and Psychological Stress Response in Youth at Clinical High-Risk for Psychosis​
+
+Emily E. Carol, Robert L. Spencer, Vijay A. Mittal​
+
+​
+
+​
+
+## Methods
+
+Subjects​
+
+Participants were recruited at the Adolescent Development and Preventative Treatment (ADAPT) research program​
+
+ 76 (38 CHR and 38 control) adolescents participated in the study​
+
+​
+
+## Methods cont'd
+
+In the present study, 38 CHR individuals and group of 38 control individuals participated in the Trier Social Stress Test (TSST), an experimentally induced psychosocial stressor. ​
+
+Changes in salivary cortisol and alpha amylase, as well as self-reported units of distress (SUDS), were evaluated.​
+
+## MethodS: Triar Social Stress Test
+
+A modified version of the Trier Social Stress Test [TSST (33)] was used to measure participants' biological (HPA axis and SNS) and psychological (subjective report) response to the acute psychosocial stress. ​
+
+TSST included a baseline period (40 min prior to task)​
+
+an anticipation period (10 min)​
+
+followed by a test period (10 min) during which participants gave a 5-min speech on a pre-assigned topic (convince the judges that you were falsely accused of shoplifting) ​
+
+performed a mental calculation task for 5 min, all in front of video camera and one research assistant (participants were also told that a panel of judges will be viewing their video to evaluate at another time)​
+
+and finally a recovery period (40 min); see Figure 1. A timer-alarm was used to signal collection times and all participants participated in the TSST in the afternoon.​
+
+## Methods
+
+HPA-axis reactivity was assessed by examining salivary cortisol levels at 6 points during the TSST. Timepoints allowed for the baseline period, acute reaction to the stressor, and recovery period of the HPA-axis to be captured.​
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
