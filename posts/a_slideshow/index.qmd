@@ -16,6 +16,6 @@ J. Navarro
 
 [Link to Article](https://www.sciencedirect.com/science/article/pii/S0306453020300688?via%3Dihub)
 
-[Article PDF](the_article/cortisol-stress-psychosis.pdf)
+[Article PDF](cortisol-stress-psychosis.pdf)
 
 [The Slide Deck](slides_moi.qmd)

@@ -19,9 +19,9 @@ C. Miller
 
 J. Navarro
 
-##### Link Back to Home
+## Jump Back to Home
 
-[Link to Home](https://miller-c-r.github.io/deuxieme_abpsych_group/)
+[Jump to Home](https://miller-c-r.github.io/deuxieme_abpsych_group/)
 
 ## The Journal of Psychoneuroendocrinology
 
@@ -243,7 +243,6 @@ Two groups: CHR subjects (clinical high-risk) for psychosis in the North America
 
 Stress Measures​
 
-
 Stress measures were recorded using:​
 
 58 item, Daily Stress Inventory,​
@@ -322,7 +321,7 @@ Researchers assessed HPA axis function using basal salivary cortisol collected i
 
 Prodromal symptoms were assessed via the Structured Interview for Prodromal Syndromes (SIPS) at 12- and 24-month follow-up assessments and used to categorise CHR subgroups​
 
-## Methods cont'd
+## Methods cont'd {.scrollable}
 
 ​
 
@@ -350,19 +349,15 @@ Cortisol \> 30 days after​
 
 ## Results
 
-## Stressor-Cortisol Concordance
+##  {background-image="lapse_time.png" background-size="800px"}
 
-## {background-image="lapse_time.png" background-size="800px"}
+Lapse of Time(Days) Between Cortisol Sample Collection Stressor Assessment and
 
-Lapse of Time(Days) Between CortisolSample Collection Stressor Assessment and 
-
-## {background-image="table_4.png" background-size="800px"}
+##  {background-image="table_4.png" background-size="1000px"}
 
 Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​
 
-
-
-## {background-image="95_percent_confidence_intervals.png" background-size="800px"}
+##  {background-image="95_percent_confidence_intervals.png" background-size="800px"}
 
 Confidence Intervals Representing the Magnitude of Stressor Cortisol Concordance
 
