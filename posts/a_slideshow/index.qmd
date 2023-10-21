@@ -4,7 +4,6 @@ date: "2023-11-03"
 image: "jubb_hpa_axis.png"
 ---
 
-
 ## CUNY Brooklyn College PSYC 3810 Psychological Disorders II
 
 A Presentation on Cortisol Concordance and HPA Axis Responsivity by:
@@ -14,7 +13,6 @@ E. Medrano
 C. Miller
 
 J. Navarro
-
 
 [Link to Article](https://www.sciencedirect.com/science/article/pii/S0306453020300688?via%3Dihub)
 
