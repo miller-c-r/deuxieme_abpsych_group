@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - about.qmd
-      - slides_moi.qmd
+      
       
 format:
   html:

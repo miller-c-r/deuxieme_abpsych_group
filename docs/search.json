@@ -156,9 +156,9 @@
   {
     "objectID": "posts/a_slideshow/index.html",
     "href": "posts/a_slideshow/index.html",
-    "title": "Stressor-Cortisol Concordance A Slide Deck",
+    "title": "Stressor-Cortisol Concordance, The Article",
     "section": "",
-    "text": "Psychological Disorders II\n\nA Presentation brought to you by:\n\nChantal M\n“J…”\n“E..”\n\nLink to Article\nArticle PDF\nThe Slide Deck"
+    "text": "A Presentation on Cortisol Concordance and HPA Axis Responsivity by:\nE. Medrano\nC. Miller\nJ. Navarro\nLink to Article\nArticle PDF\nThe Slide Deck"
   },
   {
     "objectID": "posts/a_slideshow/index.html#article-title",
@@ -1033,14 +1033,14 @@
     "href": "posts/a_slideshow/slides_moi.html#stressor-cortisol-concordance",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Stressor-Cortisol Concordance",
-    "text": "Stressor-Cortisol Concordance"
+    "text": "Stressor-Cortisol Concordance\n{background-image=“lapse_time.png” background-size=“500px”}"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#results-of-multivariable-linear-regression-analyses-examining-the-effect-of-psychosocial-stressors-on-basal-cortisol-by-follow-up-status",
     "href": "posts/a_slideshow/slides_moi.html#results-of-multivariable-linear-regression-analyses-examining-the-effect-of-psychosocial-stressors-on-basal-cortisol-by-follow-up-status",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​",
-    "text": "Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​\n​ ### {background-image=“table_4.png” background-size=“500px”}"
+    "text": "Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​\n{background-image=“table_4.png” background-size=“500px”}"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#results-1",
@@ -1125,5 +1125,12 @@
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "MethodS: Triar Social Stress Test",
     "text": "MethodS: Triar Social Stress Test\nA modified version of the Trier Social Stress Test [TSST (33)] was used to measure participants’ biological (HPA axis and SNS) and psychological (subjective report) response to the acute psychosocial stress. ​\nTSST included a baseline period (40 min prior to task)​\nan anticipation period (10 min)​\nfollowed by a test period (10 min) during which participants gave a 5-min speech on a pre-assigned topic (convince the judges that you were falsely accused of shoplifting) ​\nperformed a mental calculation task for 5 min, all in front of video camera and one research assistant (participants were also told that a panel of judges will be viewing their video to evaluate at another time)​\nand finally a recovery period (40 min); see Figure 1. A timer-alarm was used to signal collection times and all participants participated in the TSST in the afternoon.​"
+  },
+  {
+    "objectID": "posts/a_slideshow/index.html#cuny-brooklyn-college-psyc-3810-psychological-disorders-ii",
+    "href": "posts/a_slideshow/index.html#cuny-brooklyn-college-psyc-3810-psychological-disorders-ii",
+    "title": "Stressor-Cortisol Concordance, The Article",
+    "section": "",
+    "text": "A Presentation on Cortisol Concordance and HPA Axis Responsivity by:\nE. Medrano\nC. Miller\nJ. Navarro\nLink to Article\nArticle PDF\nThe Slide Deck"
   }
 ]

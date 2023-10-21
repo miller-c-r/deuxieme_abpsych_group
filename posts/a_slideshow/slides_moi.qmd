@@ -2,7 +2,7 @@
 title: "Cortisol Concordance: A Slide Deck"
 format:
   revealjs:
-    theme: moon
+    theme: beige
     transition: convex
 editor: visual
 execute:
@@ -18,9 +18,6 @@ E. Medrano
 C. Miller
 
 J. Navarro
-
-
-
 
 ##### Link Back to Home
 
@@ -72,7 +69,6 @@ Diathesis Stress Model​
 
 This article hypothesized about the neural mechanisms involved in the effects of stressors on the diathesis. Both the behavioral and biological data indicate that stress worsens symptoms, and that the diathesis is associated with a heightened response to stressors.​
 
-
 Walker EF, Diforio D. Schizophrenia: a neural diathesis-stress model. Psychol Rev. 1997 Oct;104(4):667-85. doi: 10.1037/0033-295x.104.4.667. PMID: 9337628.​
 
 https://pubmed.ncbi.nlm.nih.gov/9337628/​
@@ -85,8 +81,7 @@ https://pubmed.ncbi.nlm.nih.gov/9337628/​
 
 A longitudinal study that measured cortisol secretion in relation to symptom development​
 
-Walker EF, Walder DJ, Reynolds F. Developmental changes in cortisol secretion in normal and at-risk youth. Dev Psychopathol. 2001 Summer;13(3):721-32. doi: 10.1017/s0954579401003169. PMID: 11523856.​
-https://pubmed.ncbi.nlm.nih.gov/11523856/​
+Walker EF, Walder DJ, Reynolds F. Developmental changes in cortisol secretion in normal and at-risk youth. Dev Psychopathol. 2001 Summer;13(3):721-32. doi: 10.1017/s0954579401003169. PMID: 11523856.​ https://pubmed.ncbi.nlm.nih.gov/11523856/​
 
 ​
 
@@ -178,7 +173,7 @@ Following a stressor corticotropin-releasing hormone (CRH) and Vasopressin (AVP)
 
 They bind specific receptors for CRH and AVP in the anterior pituitary that stimulate the release of Adreno-corticotropic hormone (ACTH). (Jubb, 2016).​
 
-##  {background-image="stress_image1.png" background-size="600px"}
+##  {background-image="stress_image1.jpg" background-size="600px"}
 
 Following the perception of a stressor the hypothalamus releases CRF, which activates pituitary and leads to the secretion of ACTH. This is detected by the adrenal cortex which then secretes glucocorticoids and catecholamines. (Lupien et. Al , 2007)​
 
@@ -224,15 +219,13 @@ Specific Question- Determining the extent to which HPA axis responsivity in at-r
 
 The degree of stressor-cortisol concordance, when pooled across stressors, would increase in parallel with the level of symptom expression at follow-up ​
 
-controls <-- remitted <-- symptomatic <-- progression of psychotic symptoms <-- converters​
+controls \<-- remitted \<-- symptomatic \<-- progression of psychotic symptoms \<-- converters​
 
 ## Logic and Design {.scrollable}
-
 
 Cullen et. al aimed to further characterize the nature of HPA axis abnormalities among individuals at-risk for psychosis by examining psychosocial stressors, basal cortisol, and the concordance between these measures in a large sample of CHR youth categorized according to clinical status at the two-year follow-up.​
 
 They utilized data from the North American Prodrome Longitudinal Study 2 (NAPLS 2) and investigated whether psychosocial stressors, basal cortisol levels, and stressor-cortisol concordance (i.e., the magnitude of association between psychosocial stressors and cortisol) at the baseline assessment differed across healthy controls and CHR subgroups defined on the basis of their clinical presentation at the two-year follow-up (remitted, symptomatic, progression of positive symptoms, and converted to psychosis).​
-
 
 ## Methods
 
@@ -256,7 +249,7 @@ Stress Measures​
 
 Stress measures were recorded using:​
 
- 58 item, Daily Stress Inventory,​
+58 item, Daily Stress Inventory,​
 
 Life events were assessed via the Psychiatric Epidemiology Research Interview Life Events Scale that was modified to exclude life events of lesser relance to youth (divorce and financial losses) ​
 
@@ -265,7 +258,6 @@ lastly participants completed the Childhood Trauma and Abuse Scale, a semi-struc
 ​
 
 ## CHR Youth versus Healthy Controls​
-
 
 ## CHR Subjects
 
@@ -321,7 +313,7 @@ Non psychotic psychiatric disorders were permitted​
 
 Substance dependence in the past 6 months​
 
-IQ < 70​
+IQ \< 70​
 
 Neurological disorder​
 
@@ -333,7 +325,7 @@ Researchers assessed HPA axis function using basal salivary cortisol collected i
 
 Prodromal symptoms were assessed via the Structured Interview for Prodromal Syndromes (SIPS) at 12- and 24-month follow-up assessments and used to categorise CHR subgroups​
 
-## Methods cont'd 
+## Methods cont'd
 
 ​
 
@@ -353,28 +345,23 @@ Cortisol 1-10 days after stress measurement​
 
 Cortisol 11-30 days after​
 
-Cortisol > 30 days after​
+Cortisol \> 30 days after​
 
 ​
 
 ​
 
 ## Results
-
 
 ## Stressor-Cortisol Concordance
 
-###  {background-image="lapse_of_time_in_days_between_cortisol_sample_collection_and_stressor_assessment" background-size="500px"}
-
-
+{background-image="lapse_time.png" background-size="500px"}
 
 ## Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​
 
-​
-### {background-image="table_4.png" background-size="500px"}
+{background-image="table_4.png" background-size="500px"}
 
 ## Results
-
 
 {background-image="95_percent_confidence_intervals.png" background-size="500px"}
 
@@ -388,8 +375,7 @@ Of the 457 CHR individuals included in the current study: ​
 
 124 (27.1%) experienced a progression of positive symptoms​
 
-69 (15.1%) converted to psychosis.  ​
-
+69 (15.1%) converted to psychosis. ​
 
 ## Inferences
 
@@ -437,7 +423,7 @@ They did not adjust for multiple comparisons in their primary analyses examining
 
 ## Limitations {.scrollable}
 
-Another limitation is that a small proportion of participants (16%), experienced a long delay (> two months) between baseline assessment visits, which led to a large lapse-of-time between completion of psychosocial stressor assessments and cortisol collection.​
+Another limitation is that a small proportion of participants (16%), experienced a long delay (\> two months) between baseline assessment visits, which led to a large lapse-of-time between completion of psychosocial stressor assessments and cortisol collection.​
 
 One major limitation is that they only examined three stressor types. There are other stressors such as urbanicity, neighborhood cohesion, and socioeconomic deprivation relevant to psychosis that might impact the HPA axis function. Considering this, it is possible that examining a wider range of stressors might yield different patterns of stressor-cortisol concordance across CHR subgroups. ​
 
@@ -475,17 +461,17 @@ Dunlavey CJ. Introduction to the Hypothalamic-Pituitary-Adrenal Axis: Healthy an
 
 ​
 
-  Jubb. (2016). Molecular neuroendocrinology : from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.​
+Jubb. (2016). Molecular neuroendocrinology : from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.​
 
 Ladd, Charlotte O., Huot, Rebecca L. , et. al,(2000). Long-term behavioral and neuroendocrine adaptations to adverse early experience,Progress in Brain Research , 122, 81-103, ISSN 0079-6123, ISBN 9780444500496, https://doi.org/10.1016/S0079-6123(08)62132-9.​
 
-Lupien, Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007). The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition. Brain and Cognition, 65(3), 209–237. https://doi.org/10.1016/j.bandc.2007.02.007​
+Lupien, Maheu, F., Tu, M., Fiocco, A., & Schramek, T. E. (2007). The effects of stress and stress hormones on human cognition: Implications for the field of brain and cognition. Brain and Cognition, 65(3), 209--237. https://doi.org/10.1016/j.bandc.2007.02.007​
 
 Marita Pruessner, Alexis E. Cullen, Monica Aas, Elaine F. Walker, The neural diathesis-stress model of schizophrenia revisited: An update on recent findings considering illness stage and neurobiological and methodological complexities, Neuroscience & Biobehavioral Reviews, Volume 73, 2017,Pages 191-218,ISSN 0149-7634,https://doi.org/10.1016/j.neubiorev.2016.12.013​
 
 Merriam-Webster. (n.d.). Diathesis. In Merriam-Webster.com dictionary. Retrieved October 21, 2023, from https://www.merriam-webster.com/dictionary/diathesis​
 
-United States Environmental Protection Agency. (2023, March 13). Overview of the endocrine system | US EPA. https://www.epa.gov/endocrine-disruption/overview-endocrine-system ​
+United States Environmental Protection Agency. (2023, March 13). Overview of the endocrine system \| US EPA. https://www.epa.gov/endocrine-disruption/overview-endocrine-system ​
 
 ​
 
@@ -519,7 +505,7 @@ Subjects​
 
 Participants were recruited at the Adolescent Development and Preventative Treatment (ADAPT) research program​
 
- 76 (38 CHR and 38 control) adolescents participated in the study​
+76 (38 CHR and 38 control) adolescents participated in the study​
 
 ​
 
@@ -529,9 +515,9 @@ In the present study, 38 CHR individuals and group of 38 control individuals par
 
 Changes in salivary cortisol and alpha amylase, as well as self-reported units of distress (SUDS), were evaluated.​
 
-## MethodS: Triar Social Stress Test
+## MethodS: Triar Social Stress Test {.scrollable}
 
-A modified version of the Trier Social Stress Test [TSST (33)] was used to measure participants' biological (HPA axis and SNS) and psychological (subjective report) response to the acute psychosocial stress. ​
+A modified version of the Trier Social Stress Test \[TSST (33)\] was used to measure participants' biological (HPA axis and SNS) and psychological (subjective report) response to the acute psychosocial stress. ​
 
 TSST included a baseline period (40 min prior to task)​
 
@@ -546,125 +532,3 @@ and finally a recovery period (40 min); see Figure 1. A timer-alarm was used to 
 ## Methods
 
 HPA-axis reactivity was assessed by examining salivary cortisol levels at 6 points during the TSST. Timepoints allowed for the baseline period, acute reaction to the stressor, and recovery period of the HPA-axis to be captured.​
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

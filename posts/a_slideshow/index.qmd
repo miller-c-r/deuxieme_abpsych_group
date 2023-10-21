@@ -4,15 +4,17 @@ date: "2023-11-03"
 image: "jubb_hpa_axis.png"
 ---
 
-### Psychological Disorders II
 
-#### A Presentation brought to you by:
+## CUNY Brooklyn College PSYC 3810 Psychological Disorders II
 
-1.  Chantal M
+A Presentation on Cortisol Concordance and HPA Axis Responsivity by:
 
-2.  "J..."
+E. Medrano
 
-3.  "E.."
+C. Miller
+
+J. Navarro
+
 
 [Link to Article](https://www.sciencedirect.com/science/article/pii/S0306453020300688?via%3Dihub)
 
