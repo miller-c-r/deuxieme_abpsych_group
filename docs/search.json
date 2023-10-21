@@ -823,7 +823,7 @@
     "href": "posts/a_slideshow/slides_moi.html#methods-1",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Methods",
-    "text": "Methods\nStress Measures​\n​\n​\nStress measures were recorded using:​\n58 item, Daily Stress Inventory,​\nLife events were assessed via the Psychiatric Epidemiology Research Interview Life Events Scale that was modified to exclude life events of lesser relance to youth (divorce and financial losses) ​\nlastly participants completed the Childhood Trauma and Abuse Scale, a semi-structured interview examining experiences of physical, sexual, and psychological abuse and emotional neglect prior to the age of 16. ​\n​"
+    "text": "Methods\nStress Measures​\nStress measures were recorded using:​\n58 item, Daily Stress Inventory,​\nLife events were assessed via the Psychiatric Epidemiology Research Interview Life Events Scale that was modified to exclude life events of lesser relance to youth (divorce and financial losses) ​\nlastly participants completed the Childhood Trauma and Abuse Scale, a semi-structured interview examining experiences of physical, sexual, and psychological abuse and emotional neglect prior to the age of 16. ​\n​"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#methods-2",
@@ -1033,7 +1033,7 @@
     "href": "posts/a_slideshow/slides_moi.html#stressor-cortisol-concordance",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Stressor-Cortisol Concordance",
-    "text": "Stressor-Cortisol Concordance\n{background-image=“lapse_time.png” background-size=“500px”}"
+    "text": "Stressor-Cortisol Concordance"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#results-of-multivariable-linear-regression-analyses-examining-the-effect-of-psychosocial-stressors-on-basal-cortisol-by-follow-up-status",
@@ -1047,7 +1047,7 @@
     "href": "posts/a_slideshow/slides_moi.html#results-1",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Results",
-    "text": "Results\n{background-image=“95_percent_confidence_intervals.png” background-size=“500px”}"
+    "text": "Results\nOf the 457 CHR individuals included in the current study: ​\n134 (29.3%) showed a remission of CHR symptoms​\n130 (28.4%) remained symptomatic​\n124 (27.1%) experienced a progression of positive symptoms​\n69 (15.1%) converted to psychosis. ​"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#results-2",
@@ -1132,5 +1132,26 @@
     "title": "Stressor-Cortisol Concordance, The Article",
     "section": "",
     "text": "A Presentation on Cortisol Concordance and HPA Axis Responsivity by:\nE. Medrano\nC. Miller\nJ. Navarro\nLink to Article\nArticle PDF\nThe Slide Deck"
+  },
+  {
+    "objectID": "posts/a_slideshow/slides_moi.html#section-4",
+    "href": "posts/a_slideshow/slides_moi.html#section-4",
+    "title": "Cortisol Concordance: A Slide Deck",
+    "section": "",
+    "text": "Lapse of Time(Days) Between CortisolSample Collection Stressor Assessment and"
+  },
+  {
+    "objectID": "posts/a_slideshow/slides_moi.html#section-5",
+    "href": "posts/a_slideshow/slides_moi.html#section-5",
+    "title": "Cortisol Concordance: A Slide Deck",
+    "section": "",
+    "text": "Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​"
+  },
+  {
+    "objectID": "posts/a_slideshow/slides_moi.html#section-6",
+    "href": "posts/a_slideshow/slides_moi.html#section-6",
+    "title": "Cortisol Concordance: A Slide Deck",
+    "section": "",
+    "text": "Confidence Intervals Representing the Magnitude of Stressor Cortisol Concordance"
   }
 ]
