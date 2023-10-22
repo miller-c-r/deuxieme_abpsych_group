@@ -19,7 +19,7 @@ C. Miller
 
 J. Navarro
 
-## Jump Back to Home
+###### Link Back to Home Below
 
 [Jump to Home](https://miller-c-r.github.io/deuxieme_abpsych_group/)
 
@@ -31,35 +31,31 @@ Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psycho
 
 ## Key Terms {.scrollable}
 
-Prodrome/ Prodromal
+**Prodrome/ Prodromal**
 
 -   APA defines prodrome: an early symptom or symptoms of a mental or physical disorder. A prodrome frequently serves as a warning or premonitory sign that may, in some cases, enable preventive measures to be taken. ​
 
-​
-
-Endocrine System​
-
--   The endocrine system consists of: Glands located throughout the body; Hormones made by the glands and released into the bloodstream or the fluid surrounding cells; and Receptors in various organs and tissues that recognize and respond to the hormones.​
-
-​
-
-Diathesis​
+**Diathesis**
 
 -   predisposition toward a particular state or condition and especially one that is abnormal or diseased (Merriam-Webster, n.d.)​
 
 -   ​The stress diathesis model postulates the interaction between a genetic vulnerability or predisposition and adverse life events in the genesis of \[a disorder\] (Ladd, Charlotte O., Huot, Rebecca L. , et. al, 2000)​ <!-- -->
 
-## Key Terms
+**Endocrine Sytem**​
 
-Concordance​
+-   The endocrine system consists of: Glands located throughout the body; Hormones made by the glands and released into the bloodstream or the fluid surrounding cells; and Receptors in various organs and tissues that recognize and respond to the hormones.​
 
-Hypothalamic-Pituitary-Adrenal (HPA) Axis​
+​
+
+## Key Terms​
+
+**Hypothalamic-Pituitary-Adrenal (HPA) Axis​**
 
 -   Involves the The Hypothalamus, Pituitary Gland and Adrenal Glands​
 
 -   Activates stress systems on exposure to a stressor​
 
-Diathesis Stress Model​
+**Diathesis Stress Model**​
 
 -   The neural diathesis stress model and clinical risk for psychosis Abnormalities in the HPA axis , places individuals at increased vulnerability for psychosis
 
@@ -353,7 +349,7 @@ Cortisol \> 30 days after​
 
 Lapse of Time(Days) Between Cortisol Sample Collection Stressor Assessment and
 
-##  {background-image="table_4.png" background-size="1000px"}
+##  {background-image="table_4.png" background-size="2000px"}
 
 Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​
 
