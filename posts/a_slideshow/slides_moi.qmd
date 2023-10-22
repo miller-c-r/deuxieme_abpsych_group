@@ -153,6 +153,8 @@ The anterior pituitary controls the overall growth of the body. The anterior por
 
 ##  {background-image="jubb_hpa_axis.png" background-size="600px"}
 
+**The HPA Axis**
+
 ## HPA Axis Part I
 
 The body activates stress systems on exposure to a stressor; the autonomic nervous system initiates a rapid and relatively short-lived "flight or fight" response, whilst the HPA axis is slower, a more protracted response. (Jubb, 2016).​
@@ -347,7 +349,7 @@ Cortisol \> 30 days after​
 
 ##  {background-image="lapse_time.png" background-size="800px"}
 
-Lapse of Time(Days) Between Cortisol Sample Collection Stressor Assessment and
+Lapse of Time(Days) Between Cortisol Sample Collection and Stressor Assessment
 
 ##  {background-image="table_4.png" background-size="2000px"}
 
