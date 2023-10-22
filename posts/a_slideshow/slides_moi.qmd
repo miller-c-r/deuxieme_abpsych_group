@@ -351,7 +351,7 @@ Cortisol \> 30 days after​
 
 Lapse of Time(Days) Between Cortisol Sample Collection and Stressor Assessment
 
-##  {background-image="table_4.png" background-size="2000px"}
+##  {background-image="table_4.png" background-size="1200px"}
 
 Results of Multivariable Linear Regression Analyses Examining the Effect of Psychosocial Stressors on Basal Cortisol by Follow-up Status​
 
