@@ -1068,14 +1068,14 @@
     "href": "posts/a_slideshow/slides_moi.html#inferences-1",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Inferences",
-    "text": "Inferences\nIn conclusion, in line with their hypothesis, while all CHR subgroups showed increased psychosocial stress exposure and distress relative to controls, ​\nOnly those who later converted to psychosis (CHR converters) were characterized by significantly elevated basal cortisol levels. ​\nMoreover, only CHR converters showed a higher magnitude of stressor-cortisol concordance compared to controls, ​\nalthough confidence intervals overlapped considerably between these two groups. These findings do not support the notion that all individuals at CHR for psychosis show HPA hyperresponsiveness to psychosocial stressors. Instead, CHR individuals vary in their response to stressor exposure/distress, perhaps driven by genetic or other vulnerability factors.​\n​"
+    "text": "Inferences\nStress measures versus basal cortisol​\n\nDaily stressor distress was significantly associated with cortisol in controls and CHR converters​\nNone of the stress measures: 58-item Daily Stress Inventory ;Psychiatric Epidemiology Research Interview Life Events Scale; Childhood trauma and abuse scale, were significantly associated with cortisol in the CHR remitted, symptomatic or progressed subgroups​"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#inferences-2",
     "href": "posts/a_slideshow/slides_moi.html#inferences-2",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Inferences",
-    "text": "Inferences\nExact mechanisms underlying HPA responsivity to stress are unknown and likely complex​\nThere are individual differences in responsivity that are likely due to genetic variants​\nFKBP5, CRHR1, NR3C1, NR3C2 that modify the effect of acute and chronic stress/trauma on cortisol levels in healthy adolescents and adults and patients with psychosis​\n​"
+    "text": "Inferences\nIn conclusion, in line with their hypothesis, while all CHR subgroups showed increased psychosocial stress exposure and distress relative to controls, ​\nOnly those who later converted to psychosis (CHR converters) were characterized by significantly elevated basal cortisol levels. ​\nMoreover, only CHR converters showed a higher magnitude of stressor-cortisol concordance compared to controls, ​\nalthough confidence intervals overlapped considerably between these two groups. These findings do not support the notion that all individuals at CHR for psychosis show HPA hyperresponsiveness to psychosocial stressors. Instead, CHR individuals vary in their response to stressor exposure/distress, perhaps driven by genetic or other vulnerability factors.​\n​"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#limitations-1",
@@ -1215,7 +1215,7 @@
     "href": "posts/a_slideshow/slides_moi.html#result",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Result",
-    "text": "Result\nObservation: Poor concordance between naturally occurring psychosocial stressors and cortisol responses in psychosis. The authors noted that this observation should be interpreted with caution due to limited statistical power at the level of meta-analysis and individual studies, heterogeneity of study measures and populations as well as differences in timing of cortisol measurement with respect to the onset of stressor. ​\n​## Inferences {.scrollable}\nStress measures versus basal cortisol​\n\nDaily stressor distress was significantly associated with cortisol in controls and CHR converters​\nNone of the stress measures: 58-item Daily Stress Inventory ;Psychiatric Epidemiology Research Interview Life Events Scale; Childhood trauma and abuse scale, were significantly associated with cortisol in the CHR remitted, symptomatic or progressed subgroups​"
+    "text": "Result\nObservation: Poor concordance between naturally occurring psychosocial stressors and cortisol responses in psychosis. The authors noted that this observation should be interpreted with caution due to limited statistical power at the level of meta-analysis and individual studies, heterogeneity of study measures and populations as well as differences in timing of cortisol measurement with respect to the onset of stressor. ​"
   },
   {
     "objectID": "posts/discussion_questions/index.html",
@@ -1265,5 +1265,12 @@
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Contrasting the Two articles",
     "text": "Contrasting the Two articles\n\nThe meta analysis was able to compare First Episode Psychosis (FEP) patients with CHR individuals and healthy controls. The previous study was investigating salivary cortisol as it relates to symptom progression in CHR individuals\nOne study in the meta analysis included first degree relative that was unaffected.\n\nchildren that displayed a blunted CAR"
+  },
+  {
+    "objectID": "posts/a_slideshow/slides_moi.html#inferences-3",
+    "href": "posts/a_slideshow/slides_moi.html#inferences-3",
+    "title": "Cortisol Concordance: A Slide Deck",
+    "section": "Inferences",
+    "text": "Inferences\nExact mechanisms underlying HPA responsivity to stress are unknown and likely complex​\nThere are individual differences in responsivity that are likely due to genetic variants​\nFKBP5, CRHR1, NR3C1, NR3C2 that modify the effect of acute and chronic stress/trauma on cortisol levels in healthy adolescents and adults and patients with psychosis​\n​"
   }
 ]

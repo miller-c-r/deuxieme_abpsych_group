@@ -364,7 +364,7 @@ None of the stress measures: 58-item Daily Stress Inventory ;Psychiatric Epidemi
 
 Observation: Poor concordance between naturally occurring psychosocial stressors and cortisol responses in psychosis. The authors noted that this observation should be interpreted with caution due to limited statistical power at the level of meta-analysis and individual studies, heterogeneity of study measures and populations as well as differences in timing of cortisol measurement with respect to the onset of stressor. ​
 
-​## Inferences {.scrollable}
+## Inferences {.scrollable}
 
 Stress measures versus basal cortisol​
 
