@@ -1,37 +1,24 @@
 ---
 title: "Supplemental Reading on Cortisol Concordance"
-images:""
+images: "stress_image1.jpg"
 ---
 
-
-
-
-### (30 mins) ​
-
-      In My Mind: Living with Psychosis ​
-
-https://www.youtube.com/watch?v=KcZ_F1eua-I​
-
-​
+[In My Mind: Living with Psychosis](https://www.youtube.com/watch?v=KcZ_F1eua-I)
 
 Additional readings: ​
 
-Acute Physiological and Psychological Stress Response in Youth at Clinical High-Risk for Psychosis​
-
-10.3389/fpsyt.2021.641762​
+[Acute Physiological and Psychological Stress Response in Youth at Clinical High-Risk for Psychosis]( https://doi.org/10.3389/fpsyt.2021.641762)
 
 ​
 
-Hippocampal subfields, daily stressors, and resting cortisol in individuals at clinical high-risk for psychosis​
-
-https://doi.org/10.1016/j.psyneuen.2022.105996​
+[Hippocampal subfields, daily stressors, and resting cortisol in individuals at clinical high-risk for psychosis](https://doi.org/10.1016/j.psyneuen.2022.105996)
 
 ​
 
-Professor Walder’s Research ​
+Professor Walder's Research ​
 
 Explores whether cognitive impairments in the psychosis prodrome are stable predictors of eventual psychosis or undergo a decline due to the onset of psychosis​
 
 From the Psychosis Prodrome to the First-Episode of Psychosis: No Evidence of a Cognitive Decline​
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663810/
+[Article Link From the Psychosis Prodrome to the First Episode of Psychosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663810/)

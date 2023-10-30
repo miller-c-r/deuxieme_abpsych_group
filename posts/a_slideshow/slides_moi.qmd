@@ -166,7 +166,7 @@ They stimulate the release of Adreno-corticotropic hormone (ACTH) from the anter
 
 The adrenal cortex then releases glucocorticoid hormones , cortisol/ corticosterone (stress hormones).
 
-##  {background-image="stress_image1.jpg" background-size="200 px"}
+
 
 ## The Neuroscience Paradigm {.scrollable}
 
