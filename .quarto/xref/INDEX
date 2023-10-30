@@ -37,5 +37,17 @@
   },
   "posts/a_slideshow/slides_moi.qmd": {
     "slides_moi.html": "6103cb9c"
+  },
+  "posts/first_degree_metanalysis/index.qmd": {
+    "index.html": "7fc49f2f"
+  },
+  "posts/documentary_prodrome/index.qmd": {
+    "index.html": "224a7645"
+  },
+  "posts/supplemental_prodrome_hpa/index.qmd": {
+    "index.html": "b4f12036"
+  },
+  "posts/discussion_questions/index.qmd": {
+    "index.html": "25b4a8bd"
   }
 }

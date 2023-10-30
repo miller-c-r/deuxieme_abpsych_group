@@ -1,0 +1,13 @@
+---
+title: "A meta-analysis of blood and salivary cortisol levels in first-episode psychosis and high-risk individuals"
+date: "2023-11-03"
+image: "stress_image1.jpg"
+---
+
+### Comparison Article
+
+#### Meta-analysis of Blood and Salivary Cortisol Levels in First-Episode Psychosis and High-Risk Individuals
+
+[The Article Website](https://www.sciencedirect.com/science/article/pii/S0091302221000327?via%3Dihub)
+
+[The Article PDF](article_meta_analysis.pdf)
