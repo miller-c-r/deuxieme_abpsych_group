@@ -440,11 +440,11 @@ How to approach future research​
 
 A meta-analysis of blood and salivary cortisol levels in first-episode psychosis and high-risk individuals​
 
-https://doi.org/10.1016/j.yfrne.2021.100930​
+[A Link to Meta-analysis of Blood and Salivary Cortiool levels Article](https://doi.org/10.1016/j.yfrne.2021.100930)
 
 ​
 
-Why we chose this article​ {.scrollable}
+## Why we chose this article {.scrollable}
 
 Previous meta-analyses have only addressed single parameters of the HPA axis activity and have not considered cortisol levels in blood and saliva separately as well as their association with other hormonal and metabolic alterations reported in this population, including impaired glucose homeostasis (Pillinger et al., 2017) and altered levels of DHEA or DHEA-S (Misiak et al., 2018). ​
 

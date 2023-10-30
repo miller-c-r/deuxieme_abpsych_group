@@ -1243,7 +1243,7 @@
     "href": "posts/a_slideshow/slides_moi.html#selected-article",
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Selected Article",
-    "text": "Selected Article\nA meta-analysis of blood and salivary cortisol levels in first-episode psychosis and high-risk individuals​\nhttps://doi.org/10.1016/j.yfrne.2021.100930​\n​\nWhy we chose this article​ {.scrollable}\nPrevious meta-analyses have only addressed single parameters of the HPA axis activity and have not considered cortisol levels in blood and saliva separately as well as their association with other hormonal and metabolic alterations reported in this population, including impaired glucose homeostasis (Pillinger et al., 2017) and altered levels of DHEA or DHEA-S (Misiak et al., 2018). ​\nAnother shortcoming of previous research is the lack of a systematic comparison of baseline cortisol levels and cortisol levels in response to stimulation. ​\nLastly, there is some evidence that unaffected relatives of individuals with psychosis show increased emotional reactivity to daily life stress, increased ACTH levels in response to stress, increased pituitary volume and reduced hippocampal volume (Aiello et al., 2012). ​\n​\n​"
+    "text": "Selected Article\nA meta-analysis of blood and salivary cortisol levels in first-episode psychosis and high-risk individuals​\nA Link to Meta-analysis of Blood and Salivary Cortiool levels Article\n​"
   },
   {
     "objectID": "posts/a_slideshow/slides_moi.html#the-meta-analysis",
@@ -1272,5 +1272,12 @@
     "title": "Cortisol Concordance: A Slide Deck",
     "section": "Inferences",
     "text": "Inferences\nExact mechanisms underlying HPA responsivity to stress are unknown and likely complex​\nThere are individual differences in responsivity that are likely due to genetic variants​\nFKBP5, CRHR1, NR3C1, NR3C2 that modify the effect of acute and chronic stress/trauma on cortisol levels in healthy adolescents and adults and patients with psychosis​\n​"
+  },
+  {
+    "objectID": "posts/a_slideshow/slides_moi.html#why-we-chose-this-article",
+    "href": "posts/a_slideshow/slides_moi.html#why-we-chose-this-article",
+    "title": "Cortisol Concordance: A Slide Deck",
+    "section": "Why we chose this article",
+    "text": "Why we chose this article\nPrevious meta-analyses have only addressed single parameters of the HPA axis activity and have not considered cortisol levels in blood and saliva separately as well as their association with other hormonal and metabolic alterations reported in this population, including impaired glucose homeostasis (Pillinger et al., 2017) and altered levels of DHEA or DHEA-S (Misiak et al., 2018). ​\nAnother shortcoming of previous research is the lack of a systematic comparison of baseline cortisol levels and cortisol levels in response to stimulation. ​\nLastly, there is some evidence that unaffected relatives of individuals with psychosis show increased emotional reactivity to daily life stress, increased ACTH levels in response to stress, increased pituitary volume and reduced hippocampal volume (Aiello et al., 2012). ​\n​\n​"
   }
 ]
