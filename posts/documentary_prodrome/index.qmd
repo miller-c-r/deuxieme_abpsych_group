@@ -1,7 +1,7 @@
 ---
 title: "Cortisol Concordance. A documentary on Prodromal Symptoms in CHR Youth"
 date: "2023-11-03"
-image: "stress_image1.jpg"
+image: "jubb_hpa_axis.png"
 ---
 
 ### A Documentary on a Clinical Prodrome Presenting in CHR Youth

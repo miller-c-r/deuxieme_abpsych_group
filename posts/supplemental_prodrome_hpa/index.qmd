@@ -1,13 +1,14 @@
 ---
 title: "Supplemental Reading on Cortisol Concordance"
-images: "stress_image1.jpg"
+date: "2023-11-03"
+images: "yale_brain.png"
 ---
 
 [In My Mind: Living with Psychosis](https://www.youtube.com/watch?v=KcZ_F1eua-I)
 
 Additional readings: ​
 
-[Acute Physiological and Psychological Stress Response in Youth at Clinical High-Risk for Psychosis]( https://doi.org/10.3389/fpsyt.2021.641762)
+[Acute Physiological and Psychological Stress Response in Youth at Clinical High-Risk for Psychosis](https://doi.org/10.3389/fpsyt.2021.641762)
 
 ​
 
