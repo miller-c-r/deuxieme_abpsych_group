@@ -7,7 +7,8 @@ website:
   navbar:
     left:
       - about.qmd
-      
+      - href: https://napls.ucsf.edu/
+        The NAPLS Prodrome
       
 format:
   html:
