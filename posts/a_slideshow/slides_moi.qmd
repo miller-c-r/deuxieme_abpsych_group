@@ -29,35 +29,6 @@ Stressor-Cortisol Concordance Among Individuals at Clinical High-Risk for Psycho
 
 [Link to Article](cortisol-stress-psychosis.pdf)
 
-## Key Terms {.scrollable}
-
-**Prodrome/ Prodromal**
-
--   APA defines prodrome as an early symptom or symptoms of a mental or physical disorder. A prodrome frequently serves as a warning or premonitory sign that may, in some cases, enable preventive measures to be taken. ​
-
-**Diathesis**
-
--   predisposition toward a particular state or condition and especially one that is abnormal or diseased (Merriam-Webster, n.d.)​
-
--   ​The stress diathesis model postulates the interaction between a genetic vulnerability or predisposition and adverse life events in the genesis of \[a disorder\] (Ladd, Charlotte O., Huot, Rebecca L. , et. al, 2000)​ <!-- -->
-
-**Endocrine Sytem**​
-
--   The endocrine system consists of: Glands located throughout the body; Hormones made by the glands and released into the bloodstream or the fluid surrounding cells; and Receptors in various organs and tissues that recognize and respond to the hormones.​
-
-​
-
-## Key Terms​
-
-**Hypothalamic-Pituitary-Adrenal (HPA) Axis​**
-
--   Involves the The Hypothalamus, Pituitary Gland and Adrenal Glands​
-
--   Activates stress systems on exposure to a stressor​
-
-**Neural Diathesis Stress Model**​
-
-Postulates increased vulnerability to psychological disorders due to genetic factors, perinatal, or prenatal factors. Psychological stressors and various factors predispose individuals to various psychological disorders
 
 ## Background Research
 
@@ -96,6 +67,39 @@ A review of relevant research published since the 2008 update of the model. Prop
 Marita Pruessner, Alexis E. Cullen, et. al . The neural diathesis-stress model of schizophrenia revisited: An update on recent findings https://www.sciencedirect.com/science/article/pii/S0149763416301713)​
 
 ​
+
+
+## Key Terms {.scrollable}
+
+**Prodrome/ Prodromal**
+
+-   APA defines prodrome as an early symptom or symptoms of a mental or physical disorder. A prodrome frequently serves as a warning or premonitory sign that may, in some cases, enable preventive measures to be taken. ​
+
+**Diathesis**
+
+-   predisposition toward a particular state or condition and especially one that is abnormal or diseased (Merriam-Webster, n.d.)​
+
+
+**Endocrine Sytem**​
+
+-   The endocrine system consists of glands located throughout the body; Hormones made by the glands and released into the bloodstream or the fluid surrounding cells; and Receptors in various organs and tissues that recognize and respond to the hormones.​
+
+​
+
+## Key Terms​ {.scrollable}
+
+**Hypothalamic-Pituitary-Adrenal (HPA) Axis​**
+
+-   Involves the The Hypothalamus, Pituitary Gland and Adrenal Glands​
+
+-   Activates stress systems on exposure to a stressor​
+Feedback loops, restrain the responsiveness of the HPA axis to reset the system to baseline activity ...
+
+In  sum,  the  forward  loop  prepares  the  organism  to  anticipate  and  respond  optimally  to  a  threat, while the feedback loop ensures returning efficiently to a homeostatic balance when it is no longer challenged (for review see de Kloet et al., 1998).It has been shown that the negative feedback control of the HPA axis can become dys-regulated,  particularly  following  periods  of  chronic  stress.  (Jubb, 2016). 
+
+**Neural Diathesis Stress Model**​
+
+The diathesis stress model postulates the interaction between a genetic vulnerability or predisposition and adverse life events in the genesis of [a disorder] (Ladd, Charlotte O., Huot, Rebecca L. , et. al, 2000)​
 
 ## A Brief Review of the Hypothalamus, Pituitary Gland and the Endocrine System​
 
