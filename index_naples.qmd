@@ -3,10 +3,28 @@ title: "UC San Francisco and the North American Prodrome Longitudinal Study"
 image: "jubb_hpa_axis.png"
 ---
 
+## The North American Prodrome Longitudinal Study (NAPLS)
+
+### What is The NAPLS ?
 
 
-## The North American Prodrom Longitudinal Study (NAPLS)
+
+[AN NIMH Funded Study, and collaboration called: NAPLS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3502644/)
+
+[A PDF Download of NIMH Article Describing NAPLS and NAPLS-2](napls_article_nimh.pdf)
+
+##### The North American Prodrome Longitudinal Study (NAPLS) is a consortium of eight programs focusing on the psychosis prodrome. Funded by the National Institute of Mental Health (NIMH), the sites are located at Emory University, Harvard University, University of Calgary, UCLA, UCSD, University of North Carolina Chapel Hill, Yale University, and Zucker Hillside Hospital.
+
+
+
+#### NAPLS-2
+
+##### A five year prospective study "Predictors and Mechanisms of Conversion to Psychosis", (also known as NAPLS-2) with three major aims: (1) to prospectively test the prediction algorithm developed in NAPLS-1, (2) to investigate the neuroanatomical, neurophysiological, neurocognitive, and neurohormonal factors that may contribute to the development of psychosis, and (3) to develop a repository of DNA, RNA, and plasma from participants meeting diagnostic criteria for a clinical high risk (CHR) state and from demographically similar healthy subjects. F
 
 ### NAPLS Website on Investigating Psychosis Risk
 
 [UC San Fran Webpage about NAPLS](https://napls.ucsf.edu/)
+
+##### References
+
+Addington, J., Cadenhead, K. S., et al. (2012). North American Prodrome Longitudinal Study (NAPLS 2): overview and recruitment. Schizophrenia research, 142(1-3), 77--82. https://doi.org/10.1016/j.schres.2012.09.012
