@@ -2,7 +2,7 @@
 title: "Cortisol Concordance: A Slide Deck"
 format:
   revealjs:
-    theme: white
+    theme: moon
     transition: convex
 editor: visual
 execute:
@@ -107,7 +107,7 @@ Neural Diathesis Stress Model​
 
 The diathesis stress model postulates the interaction between a genetic vulnerability or predisposition and adverse life events in the genesis of \[a disorder\] (Ladd, Charlotte O., Huot, Rebecca L. , et. al, 2000)​
 
-​\## A Brief Review of the Hypothalamus, Pituitary Gland and the Endocrine System​
+​## A Brief Review of the Hypothalamus, Pituitary Gland and the Endocrine System​
 
 ## The Endocrine System
 
@@ -560,7 +560,6 @@ Do you think sex differences are of relevance to the pathophysiology of psychosi
 ​
 
 Berger, M., Kraeuter, A.K., Romanik, D., Malouf, P., Amminger, G.P., Sarnyai, Z. Cortisol awakening response in patients with psychosis: Systematic review and meta-analysis,Neuroscience & Biobehavioral Reviews, Volume 68, 2016,Pages 157-166. ISSN 0149-7634,https://doi.org/10.1016/j.neubiorev.2016.05.027. (https://www.sciencedirect.com/science/article/pii/S0149763416300549)​
-
 
 Błażej Misiak, Marita Pruessner, Jerzy Samochowiec, Michał Wiśniewski, Artur Reginia, Bartłomiej Stańczykiewicz. A meta-analysis of blood and salivary cortisol levels in first-episode psychosis and high-risk individuals, Frontiers in Neuroendocrinology, Volume 62, 2021,100930, ISSN 0091-3022, https://doi.org/10.1016/j.yfrne.2021.100930.​
 
