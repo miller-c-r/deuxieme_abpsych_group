@@ -52,5 +52,11 @@
   },
   "posts/napls/index.qmd": {
     "index.html": "a28933b0"
+  },
+  "posts/napls/index_naples.qmd": {
+    "index_naples.html": "2b583a8f"
+  },
+  "index_naples.qmd": {
+    "index_naples.html": "10ae3037"
   }
 }

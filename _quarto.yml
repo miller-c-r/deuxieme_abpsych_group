@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - about.qmd
-      - href: https://napls.ucsf.edu/
+      - index_naples.qmd
         
       
 format:
