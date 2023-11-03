@@ -530,18 +530,19 @@ CAR (Cortisol Awakening Response)
 
 This research has shed light on the complexity of how endocrine pathways affect and/or determine behaviors, therefore playing a role in neuropsychiatric disorders. Let's talk more about this.​ ​
 
--   Just to recap from what we've learned in class- What are some types of psychosocial stressors? Hint​
+Just to recap from what we’ve learned in class- What are some types of psychosocial stressors? 
+Hint: Remember a psychosocial stressor can include anything that translates to a perceived threat to our social status, social esteem, respect, acceptance within a group, threat to our self-worth, or a threat that we feel we have no control over, stress measure slides​
 
--   What are some indicators of the early onset of psychosis?​
+What are some indicators of the early onset of psychosis? Why do you think early identification/intervention is an important part of treatment?  
+Hint: Changes in Affect, Cognition (Thinking), Sense of Self, Others or the World, Physical​
 
--   Is psychosocial stress alone necessary and sufficient to trigger the onset of psychosis? ​
+What role does stress play when considering critical periods of development and risk for psychosis? Is psychosocial stress alone necessary and sufficient to trigger the onset of psychosis? 
+Hint: Neural diathesis model​
 
--   When considering critical development periods, what role does age play when considering cortisol levels?​
+Do you think sex differences are of relevance to the pathophysiology of psychosis? Why or why not? Is it possible that there are sex differences in cortisol responses? 
+Hint: The authors noted the participant sex as a potential confounder. ​
 
--   What etiological or causal factors might moderate the association between psychosocial stress and a risk of psychosis or cortisol responses? ​
-
--   Do you think there are sex differences with respect to cortisol responses are of relevance to the pathophysiology of psychosis? Why or why not?​
-
+​
 ## References {.scrollable}
 
 Błażej Misiak, Marita Pruessner, et. al. (2021). A meta-analysis of blood and salivary cortisol levels in first-episode psychosis and high-risk individuals, Frontiers in Neuroendocrinology,Volume 62, https://doi.org/10.1016/j.yfrne.2021.100930
